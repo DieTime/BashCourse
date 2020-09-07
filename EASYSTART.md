@@ -1,7 +1,7 @@
 # Bash2md Writer
 
 ### About
-Application to automate filling markdown files when running bash scripts
+Application to automate filling markdown files when running bash scripts.
 
 ### How start?
 
