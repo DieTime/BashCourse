@@ -5,6 +5,12 @@ Application to automate filling markdown files when running bash scripts.
 
 ### How start?
 
+Clone repository
+```bash
+git clone https://github.com/DieTime/bash2md.git
+cd bash2md/
+```
+
 Compile app
 ```bash
 gcc main.c -o bash2md
@@ -22,12 +28,13 @@ done
 
 Run app
 ```bash
-sudo ./bash2md <script/path/important> <markdown/path/optional>
+sudo ./bash2md <script/path/important> <markdown/path/optional(./README.md)>
 ```
 
 ### Example
 
 ```bash
+# Dont forget remove old README.md file
 sudo ./bash2md ./example.sh
 ```
 
