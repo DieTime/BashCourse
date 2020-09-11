@@ -1,6 +1,6 @@
 # Chapter 1
 
-#### Exercise 1.1
+### Exercise 1.1
 
 main.c
 ```C
@@ -24,7 +24,7 @@ output
 Hello world
 ```
 
-#### Exercise 1.2
+### Exercise 1.2
 
 fred.c
 ```C
@@ -120,7 +120,7 @@ output
 bill: you passed Hello world
 ```
 
-#### Exercise 1.3
+### Exercise 1.3
 
 bash
 ```bash
@@ -163,7 +163,7 @@ including how to port them to new targets and some information about how
 
 # Chapter 2
 
-#### Exercise 2.1
+### Exercise 2.1
 
 2_1.sh
 ```bash
@@ -196,7 +196,7 @@ Enter myvar value
 $myvar equals 123
 ```
 
-#### Exercise 2.2
+### Exercise 2.2
 
 2_2.sh
 ```bash
@@ -218,7 +218,7 @@ The first parameter was foo
 The second parameter was bar
 ```
 
-#### Exercise 2.3
+### Exercise 2.3
 
 2_3.sh
 ```bash
@@ -251,7 +251,7 @@ yes
 Good morning
 ```
 
-#### Exercise 2.4
+### Exercise 2.4
 
 bash
 ```bash
@@ -269,7 +269,7 @@ fud
 41
 ```
 
-#### Exercise 2.5
+### Exercise 2.5
 
 bash
 ```bash
@@ -293,7 +293,7 @@ output
 example.sh
 ```
 
-#### Exercise 2.6
+### Exercise 2.6
 
 2_6.sh
 ```bash
@@ -324,7 +324,7 @@ Is it morning? Enter yeas or no
 Good Afternoon
 ```
 
-#### Exercise 2.7
+### Exercise 2.7
 
 2_7.sh
 ```bash
@@ -352,7 +352,7 @@ Is it morning? Enter yeas or no
 Good Afternoon
 ```
 
-#### Exercise 2.8
+### Exercise 2.8
 
 2_8.sh
 ```bash
@@ -391,7 +391,7 @@ Good Morning
 Up bright and early this morning
 ```
 
-#### Exercise 2.9
+### Exercise 2.9
 
 bash
 ```bash
@@ -414,7 +414,7 @@ hello
 in else
 ```
 
-#### Exercise 2.10
+### Exercise 2.10
 
 bash
 ```bash
@@ -437,7 +437,7 @@ in if
 ```
 
 
-#### Exercise 2.11
+### Exercise 2.11
 
 bash
 ```bash
@@ -458,7 +458,7 @@ Function foo running
 script ended
 ```
 
-#### Exercise 2.12
+### Exercise 2.12
 
 2_12.sh
 ```bash
@@ -499,7 +499,7 @@ Hi Denis, nice name
 
 ```
 
-#### Exercise 2.14
+### Exercise 2.14
 
 2_14_1.sh
 ```bash
@@ -529,7 +529,7 @@ output
 The second meta variable
 ```
 
-#### Exercise 15
+### Exercise 15
 
 2_15.sh
 ```bash
@@ -573,7 +573,7 @@ File exists
 File exists
 ^C
 ```
-#### Exercise 2.16
+### Exercise 2.16
 
 bash
 ```bash
@@ -588,7 +588,7 @@ output
 ./README.md
 ```
 
-#### Exercise 2.17
+### Exercise 2.17
 
 bash
 ```bash
@@ -605,7 +605,7 @@ output
 ./2_15.sh:1
 ```
 
-#### Exercise 2.18
+### Exercise 2.18
 
 bash
 ```bash
@@ -636,7 +636,7 @@ startx
 /usr/
 ```
 
-#### Exercise 2.19
+### Exercise 2.19
 
 bash
 ```bash
@@ -654,7 +654,7 @@ this is a here
 document
 ```
 
-#### Exercise 2.20
+### Exercise 2.20
 
 text_file
 ```text
