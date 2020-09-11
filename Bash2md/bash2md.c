@@ -131,6 +131,9 @@ void file_content_to_md(const char* script_path, const char* content_type, const
             }
         }
         fprintf(md_file, "\n#### %s", &buffer[1]);
+        fprintf(md_file, "\nbash");
+    } else {
+        fprintf(md_file, "\noutput");
     }
 
     // Write block of code to markdown file
